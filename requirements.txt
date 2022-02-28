@@ -1,0 +1,8 @@
+LightGBM==3.2.1
+mordred==1.2.0
+numpy==1.19.5
+pandas==1.3.3
+PubChemPy==1.0.4
+RDKit==2020.09.1
+scikit-learn==0.24.2
+xgboost==1.4.2
