@@ -53,8 +53,14 @@ version 7.9.2009. The `Conda` environment includes the following packages:
 
 Please use the following citation in any publication using VDss library:
 
-> **"Paper Title"**, Author 1, Author 2,
-> [JOURNAL XXX]().
-> doi:xxxx
+```
+@misc{liu2022benchmarking,
+    title={A Benchmarking Dataset with 2440 Organic Molecules for Volume Distribution at Steady State},
+    author={Wenwen Liu and Cheng Luo and Hecheng Wang and Fanwang Meng},
+    year={2022},
+    eprint={2211.05661},
+    archivePrefix={arXiv},
+    primaryClass={q-bio.QM}
+```
 
 *VDss © 2022 by Luo Lab is licensed under CC BY-NC 4.0*
